@@ -6,10 +6,10 @@ The purpose of this analysis to find out if the vine program has any significanc
 ## Results
 
 How many Vines and Non Vine reviews were found?
-!["Non"](images/"non_vines.png")
+!["Non"](images/non_vines.png)
 * When it comes to non vine reviews , there were 37,385 reviews that were found.
 
-!["Vine"](images/"vine.png")
+!["Vine"](images/"vine.png)
 * When it comes to reviews that were part of the vine program, there were only 90 reviews which is substantially different.
 
 How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
